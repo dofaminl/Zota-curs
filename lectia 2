@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portofoliu Online</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background: #35424a;
+            color: #ffffff;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        section {
+            padding: 20px;
+            margin: 20px;
+            background: #ffffff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #35424a;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin: 10px 0;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #35424a;
+            color: #ffffff;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Portofoliul Meu</h1>
+        <p>Bun venit pe pagina mea de portofoliu!</p>
+    </header>
+
+    <section>
+        <h2>Despre Mine</h2>
+        <p>Sunt un dezvoltator web pasionat, fara în crearea de site-uri responsive și aplicații web. Îmi place să învăț
+            lucruri noi și să îmi îmbunătățesc abilitățile.</p>
+    </section>
+
+    <section>
+        <h2>Abilități</h2>
+        <ul>
+            <li>HTML & CSS</li>
+            <li>JavaScript</li>
+
+
+        </ul>
+    </section>
+
+    <section>
+        <h2>Proiecte Anterioare</h2>
+        <ul>
+
+            <li>
+                <strong>Proiect 1:</strong> Inca nu am un proiect realizat, dar desigur pe viitor o sa am
+            </li>
+
+        </ul>
+    </section>
+
+    <footer>
+        <p>Contact: slipceannu@gmail.com</p>
+    </footer>
+
+</body>
